@@ -3,6 +3,7 @@
 sudo apt-get update
 sudo apt-get upgrade -y
 
+
 # Install vs-code
 sudo apt-get update
 sudo apt install software-properties-common apt-transport-https wget -y
@@ -11,7 +12,7 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 sudo apt install code -y
 
 # Install tool development
-sudo apt-get install git vim curl wget tmux -y
+sudo apt-get install git vim curl wget tmux build-essential -y
 
 # Install Google Chrome
 wget -P /home/{whoami}/Downloads https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
