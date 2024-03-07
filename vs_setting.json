@@ -1,0 +1,47 @@
+{
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false,
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": -1,
+    "editor.minimap.autohide": true,
+    "editor.fontFamily": "Hack",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 24,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            160
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off",
+        "editor.tabSize": 2
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "editor.tabSize": 2
+    },
+    "debug.console.fontFamily": "Hack",
+    "debug.console.fontSize": 16,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "Hack",
+    "terminal.integrated.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "dart.lineLength": 160,
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.tree.indent": 32,
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#ffffff66",
+    },
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+}
